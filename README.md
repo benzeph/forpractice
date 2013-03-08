@@ -1,3 +1,3 @@
-This is repo for git command practice.
+This is a repo for git command practice.
 				
 				------- Ben
