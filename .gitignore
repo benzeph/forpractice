@@ -1,2 +1,2 @@
 # 此为注释 – 将被 Git 忽略
-my-mvn-app/target/    # 忽略 my-mvn-app/target/目录下的所有文件
+/my-mvn-app/target/    # 忽略 my-mvn-app/target/目录下的所有文件
